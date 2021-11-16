@@ -6,7 +6,11 @@ Me chamo Raniere Rocha, tenho 25 anos e adoro usar meus conhecimentos para resol
 
 Sou apaixonado por RPG, cultura nerd e revista coquetel! Adoro caça palavras e palavras cruzadas, e sou muito empolgado quando se trata de tecnologia!!!!
 
-Atualmente estou aprendendo ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) e ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)! Da uma olhada ai em uns trabalhos legais que eu fiz apenas usando essas 3 tecnologias <3
+Atualmente estou aprendendo:
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+Da uma olhadinha ai em uns trabalhos legais que eu fiz apenas usando essas 3 tecnologias <3
 
 - [Conversor de Decimal pra Binário](https://github.com/raniererocha/DecToBin)
 
