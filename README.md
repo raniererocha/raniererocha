@@ -36,6 +36,7 @@ Da uma olhadinha ai em uns trabalhos legais que eu fiz apenas usando essas 3 tec
 
 - [ToDo List com ReactJS/Styled-components](https://github.com/raniererocha/react-list-app)
                                                                                           
+- [React Pokedex](https://github.com/raniererocha/pokedex)
 
   
 
