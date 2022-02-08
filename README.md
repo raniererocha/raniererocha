@@ -38,6 +38,8 @@ Da uma olhadinha ai em uns trabalhos legais que eu fiz apenas usando essas 3 tec
                                                                                           
 - [React Pokedex](https://github.com/raniererocha/pokedex)
 
+- [Bom Dia Generator](https://github.com/raniererocha/bom-dia-generator)
+
   
 
 ---
