@@ -2,7 +2,7 @@
 
 ### Deixa eu falar um pouco sobre mim...
 
-Me chamo Raniere Rocha, tenho 25 anos e adoro usar meus conhecimentos para resolver problemas! Atualmente estou cursando Desenvolvimento de softwares na [Cubos Academy](https://cubos.academy/) e meu sonho é ajudar mais pessoas com o que eu gosto!
+Me chamo Raniere Rocha, tenho 26 anos e adoro usar meus conhecimentos para resolver problemas! Atualmente trabalhando na [ubistart](https://www.ubistart.com/)
 
 Sou apaixonado por RPG, cultura nerd e revista coquetel! Adoro caça palavras e palavras cruzadas, e sou muito empolgado quando se trata de tecnologia!!!!
 <hr>
